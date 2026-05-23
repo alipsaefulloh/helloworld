@@ -2,7 +2,7 @@
 
 A modern, colorful, and interactive single page website with **"Hello World"** as the main content.
 
-🔗 **Live Demo** → [your-demo-link.com](https://your-demo-link.com)
+🔗 **Live Demo** → [your-demo-link.com](https://helloworldupgrade.netlify.app/)
 
 ---
 
